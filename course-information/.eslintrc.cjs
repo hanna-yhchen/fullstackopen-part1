@@ -18,6 +18,7 @@ module.exports = {
       { allowConstantExport: true },
     ]
     ,
-    'space-before-function-paren': 'off'
+    'space-before-function-paren': 'off',
+    'react/prop-types': 'off'
   },
 }
